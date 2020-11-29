@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+inputs/
+saidas/
+s.txt
+s2.txt
+saida.txt
+.vscode/
+
 __pycache__/
 *.py[cod]
 *$py.class
